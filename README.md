@@ -1,8 +1,8 @@
 # 使用框架與工具
 
-* vue3
-* vite
-* i18n
+* Vue3
+* Vite
+* Vue I18n
 * TypeScript
 * SCSS/SASS
 * CSS Module
