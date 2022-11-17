@@ -1,16 +1,13 @@
 # 使用框架與工具
 
-* vite
 * vue3
-* TypeScript
-* ESLint
+* vite
 * i18n
-* SASS
+* TypeScript
+* SCSS/SASS
 * CSS Module
-* tailwind CSS
-* element UI
-* CI/CD
-
+* Tailwind CSS
+* ESLint
 
 # 執行
 
