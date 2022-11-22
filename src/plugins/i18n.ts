@@ -8,6 +8,7 @@ const i18n = createI18n<[MessageSchema], 'zh-TW' | 'en-US'>({
   legacy: false, // for i18n Composition API
   locale: 'zh-TW',
   fallbackLocale: 'zh-TW',
+  globalInjection: true,
   messages: {
     'zh-TW': zh,
     'en-US': en
